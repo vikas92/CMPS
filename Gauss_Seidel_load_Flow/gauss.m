@@ -1,5 +1,6 @@
 % Program for Gauss - Seidel Load Flow Analysis
 % Vikas Gupta
+%https://github.com/vikas92
 %Change the acceleration factor and number of iterations as desired.
 %Edit busdata.m and lineimp.m to enter the values corresponding to the
 %system under study
